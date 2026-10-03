@@ -1,0 +1,25 @@
+footer{
+
+    text-align: center;
+    color: azure;
+}
+
+header{
+    background-color: yellow;
+}
+
+nav{
+    text-align: left;
+
+}
+
+nav a {
+     text-decoration: none;
+     color: black;
+     font-size: 0,8m;
+}
+
+h3{
+
+    background-color: rgb(45, 84, 190);
+}
